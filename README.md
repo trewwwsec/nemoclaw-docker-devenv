@@ -2,7 +2,7 @@
 
 **GPU-accelerated dev environment for agentic AI — powered by NVIDIA OpenShell & OpenClaw.**
 
-NemoClaw is a ready-to-run Docker container that bundles everything you need to build, test, and iterate with AI agents on NVIDIA hardware. It wires together **CUDA 12.6**, **OpenShell**, and **OpenClaw** into a single reproducible workspace so you can focus on the agent, not the setup.
+NemoClaw dev env is a ready-to-run Docker container that bundles everything you need to build, test, and iterate with AI agents on NVIDIA hardware. It wires together **CUDA 12.6**, **OpenShell**, and **OpenClaw** into a single reproducible workspace so you can focus on the agent, not the setup.
 
 ---
 
