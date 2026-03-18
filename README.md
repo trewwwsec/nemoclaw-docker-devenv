@@ -1,4 +1,4 @@
-# 🐾 NemoClaw
+# NemoClaw dev env
 
 **GPU-accelerated dev environment for agentic AI — powered by NVIDIA OpenShell & OpenClaw.**
 
